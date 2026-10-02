@@ -1,3 +1,3 @@
-# ma1805-codeing-projects
+# ma1805-coding-projects
 
  https://ytslr.github.io/ma1805-coding-projects/
