@@ -23,5 +23,3 @@ box(100);
 
 	 orbitControl();
 }
-
-
