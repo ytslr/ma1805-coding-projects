@@ -21,5 +21,5 @@ function draw(){
 
 box(100);
 
-	 orbitControl();
+	 orbitControl(10);
 }
