@@ -20,7 +20,7 @@ function draw(){
 		rect(300, 300, 400, 400); 
 
 function draw() {
-		box();
+		box(30);
 
 	 orbitControl();
 
