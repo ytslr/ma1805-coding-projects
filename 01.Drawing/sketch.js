@@ -18,4 +18,12 @@ function draw(){
 
 		fill(220);
 		rect(300, 300, 400, 400); 
+
+function draw() {
+		box();
+
+	 orbitControl();
+
+}
+
 }
