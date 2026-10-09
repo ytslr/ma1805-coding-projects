@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(640, 480); 
+  createCanvas(640, 480, WEBGL); 
   background(230);               
 }
 
@@ -20,7 +20,7 @@ function draw(){
 		rect(300, 300, 400, 400); 
 
 function draw() {
-		box(30);
+		box(100);
 
 	 orbitControl();
 
