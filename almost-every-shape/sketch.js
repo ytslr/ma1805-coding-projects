@@ -1,10 +1,4 @@
 function setup() {
-  createCanvas(600, 600);
-  noStroke();
-
-  background(255);
-
-function setup() {
   createCanvas(700, 700);
 
   //white background
@@ -50,5 +44,3 @@ function setup() {
   stroke(0);
   point(550, 550);
 }
-}
-

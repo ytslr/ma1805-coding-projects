@@ -1,10 +1,15 @@
+//setup is run once when the webpage is first loaded
 function setup() {
+  //create the canvas and specify width & height
   createCanvas(600, 600);
+
+  //turn off outline
   noStroke();
+  
+  //set background colour to 245 (grey)
+  background(245);
 
-  background(255);
-
-  }
+}
 
 function draw() {
   //fill(r, g, b)
@@ -29,4 +34,3 @@ function draw() {
   fill(0, 0, 255);
   ellipse(500, 300, 100, 100);
 }
-
