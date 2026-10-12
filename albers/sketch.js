@@ -1,9 +1,17 @@
+/*
+  Josef Albers: Interaction of Colour
+  
+  This could be simplified by using the 'width' and 'height' environment variables 
+  to automatically scale the image to the size of the canvas
+*/
+
 function setup() {
   createCanvas(600, 600);
   noStroke();
 
   background(255);
 
+}
 
 function draw(){
 
@@ -15,5 +23,4 @@ function draw(){
   stroke(33); 
   fill(63, 181, 209);
   rect(100, 100, 200, 200, 20, 20, 5, 5)
-}
 }
